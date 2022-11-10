@@ -13,7 +13,7 @@ To run the tests from the terminal, run the command `npm test`.
 
 To keep the tests running (auto updating when you save files), run the command: `npm test -- --watch` then press `a` to run all the tests and keep watching the files for changes. To quit the tests, type `q`.
 
-To run a specifc test, run `npm test <filname>` for example `npm test remove-vowels` (that will run only the files that matches remove-vowels, i.e. remove-vowels.test.js)
+To run a specific test, run `npm test <filename>` for example `npm test remove-vowels` (that will run only the files that matches remove-vowels, i.e. remove-vowels.test.js)
 
 ### Pass Tests
 
